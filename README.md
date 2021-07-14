@@ -8,6 +8,10 @@
 1. Browser is launched
 2. User should be logged in gmail login <Teamt1661@gmail.com>
 3. Password:team2test
+
+#### Steps 
+1. Write the url  <http://google.com> in the browser's URL bar and press enter
+2. Once google.com is launched, sign in gmail
  
 
 
