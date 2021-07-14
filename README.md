@@ -15,6 +15,9 @@
 
 #### Expected result
 * Finded the button ,,Contacts,, on the right side , make one click
+
+#### Actual result
+* Gmail ,,Contacts,,  are open on the right side
  
 
 
