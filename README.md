@@ -1,8 +1,8 @@
 # My-first-homework-in github
 ## Test Case ***Contacts section*** gmail
-### Test case about- Hardware, Windows 7, 
+### Test case on - Hardware, version Windows 7 
 #### Description 
-* Check that user is able to  see the contact list
+*  ***Check that user is able to  see the contact list***
  
 #### Precondition
 1. Browser is launched
