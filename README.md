@@ -12,6 +12,9 @@
 #### Steps 
 1. Write the url  <http://google.com> in the browser's URL bar and press enter
 2. Once google.com is launched, sign in gmail
+
+#### Expected result
+* Finded the button ,,Contacts,, on the right side , make one click
  
 
 
