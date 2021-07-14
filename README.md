@@ -1,6 +1,6 @@
 # My-first-homework-in github
 ## Test Case ***Contacts section*** gmail
-### Test case on - Hardware, version Windows 7, Opera      version   77.0.4054.90 
+### Test case in - Hardware, version Windows 7, Opera      version   77.0.4054.90 
 #### Description 
 *  ***Check that user is able to  see the contact list***
  
